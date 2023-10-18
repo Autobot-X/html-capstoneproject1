@@ -1,0 +1,35 @@
+h2 {
+font-family: 'Open Sans', sans-serif;
+}
+
+ .sub-details{
+    color: #555843; font-weight: bold; font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    font-family:'Open Sans', sans-serif; font-weight: 600; text-align: justify;
+}
+
+*{
+    font-family:'Open Sans', sans-serif ; font-weight: bold;
+}
+
+footer {
+    text-align: center; 
+}
+
+html {
+    background-color:beige;
+}
+
+.business{ 
+    display: inline-block;
+}
+
+.tools {
+    display: inline-block;
+}
+
+.extra {
+    display: inline-block;
+}
